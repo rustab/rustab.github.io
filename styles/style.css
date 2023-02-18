@@ -1,7 +1,9 @@
 html {
     font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
     font-family: "Roboto Mono", sans-serif; /* this should be the rest of the output you got from Google Fonts */
-    background-color: seashell
+    background-color: seashell;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
   
   p,
@@ -21,8 +23,6 @@ body {
     bottom:0;
     left:0;
     right:0;
-    overflow-x: hidden;
-    overflow-y: auto;
   }
 
   h1 {
