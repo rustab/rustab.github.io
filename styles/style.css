@@ -2,6 +2,9 @@ html {
     font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
     font-family: "Roboto Mono", sans-serif; /* this should be the rest of the output you got from Google Fonts */
     background-color: seashell;
+    height:100%;
+    display: table;
+    margin: auto;
 }
   
   p,
@@ -16,10 +19,12 @@ html {
 
 
   body {
-    width: 800px;
+    height:100%;
+    display: table-cell;
+    vertical-align: middle;
+    /*width: 800px;*/
     padding: 20px 0;
     background-color: rgb(241, 241, 241);
-    display: block;
     font-size: 40px;
     text-align: center;
     overflow: auto;
