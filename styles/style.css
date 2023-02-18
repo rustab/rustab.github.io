@@ -3,11 +3,6 @@ html {
     font-family: "Roboto Mono", sans-serif; /* this should be the rest of the output you got from Google Fonts */
     background-color: seashell
 }
-
-h1 {
-    font-size: 40px;
-    text-align: center;
-  }
   
   p,
   li {
@@ -16,9 +11,6 @@ h1 {
     letter-spacing: 1px;
   }
 
-  html {
-  
-}
 
 body {
     width: 700px;
@@ -33,6 +25,8 @@ body {
     padding: 20px 0;
     color: #00539f;
     text-shadow: 3px 1px 1px black;
+    font-size: 40px;
+    text-align: center;
   }
 
   img {
