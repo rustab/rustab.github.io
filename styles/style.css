@@ -21,6 +21,7 @@ body {
     bottom:0;
     left:0;
     right:0;
+    overflow: auto
   }
 
   h1 {
@@ -59,7 +60,7 @@ nav {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #7e7575; /* Black*/
+  background-color: #dccece; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
@@ -69,7 +70,7 @@ nav {
 nav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 50px;
   color: #ebe3e3;
   display: block;
   transition: 0.5s;
