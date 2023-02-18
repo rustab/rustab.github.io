@@ -115,10 +115,16 @@ main {
 
 section.wantToLearn {
   background-color: burlywood;
+  text-align: left;
 }
 section.needToLearn{
   background-color: rgb(199, 160, 109);
+  text-align: left;
 }
 section.booksToRead{
   background-color: rgb(209, 184, 152);
+  text-align: left;
+}
+section p {
+  border: 1px #464343;
 }
