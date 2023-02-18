@@ -112,3 +112,13 @@ main {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+section.wantToLearn {
+  background-color: burlywood;
+}
+section.needToLearn{
+  background-color: rgb(199, 160, 109);
+}
+section.booksToRead{
+  background-color: rgb(209, 184, 152);
+}
