@@ -16,7 +16,7 @@ html {
 
 
 body {
-    width: 700px;
+    width: 1000px;
     margin: 0 auto;
     background-color: seashell;
     padding: 0 20px 20px 20px;
@@ -71,14 +71,14 @@ nav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #ebe3e3;
   display: block;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 /* When you mouse over the navigation links, change their color */
 nav a:hover {
-  color: #f1f1f1;
+  color: #be6969;
 }
 
 /* Position and style the close button (top right corner) */
