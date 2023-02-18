@@ -8,26 +8,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
   </head>
   <body>
-    <h1> Coralines Daddy has high colesterol! </h1>
+    <h1> Welcome to my page! </h1>
     
     <nav id="mySidenav">
         <ul>
-            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&#9731;</a>
             <li><a href="projects/project.html"> Projects </a></li>
             <li><a href="contacts/contact.html"> Contact </a></li>
-            
         </ul>
-        <form>
-            <input type="search" name="q" placeholder="Search query" />
-            <input type="submit" value="Go!" />
-        </form>
     </nav>    
     
     <main>
-        <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+        <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9961; Navigation </span>
         <article>
-        <header>Some little header.</header>
-            
             <img src="images/dripCoraline.jpg" alt="Dripping Daddy" />
         </article>
         <aside>
@@ -36,24 +29,9 @@
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UBDRX6bk-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
                 <figcaption> A figure caption </figcaption>
             </figure>
-            <ul>
-            
-              <li><a href="#">Oh I do like to be beside the seaside</a></li>
-              <li><a href="#">Oh I do like to be beside the sea</a></li>
-              <li><a href="#">Although in the North of England</a></li>
-              <li><a href="#">It never stops raining</a></li>
-              <li><a href="#">Oh well…</a></li>
-            </ul>
-          </aside>
+        </aside>
     </main>
-    <script>
-        function openNav() {
-          document.getElementById("mySidenav").style.width = "250px";
-        }
-        
-        function closeNav() {
-          document.getElementById("mySidenav").style.width = "0";
-        }
-    </script>
+
+    <script src="scripts/main.js"></script>
   </body>
 </html>
