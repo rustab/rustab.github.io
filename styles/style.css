@@ -1,6 +1,7 @@
 html {
     font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
     font-family: "Roboto Mono", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+    background-color: seashell
 }
 
 h1 {
@@ -16,7 +17,7 @@ h1 {
   }
 
   html {
-  background-color: #4a657f;
+  
 }
 
 body {
