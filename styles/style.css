@@ -16,13 +16,14 @@ html {
 
 
   body {
-    width: 700px;
+    width: 800px;
     padding: 20px 0;
-    color: #92aac0;
-    text-shadow: 3px 1px 1px black;
+    background-color: rgb(241, 241, 241);
+
     font-size: 40px;
     text-align: center;
     overflow: auto;
+    float: left;
     }
 
   h1 {
@@ -80,6 +81,10 @@ nav a {
 /* When you mouse over the navigation links, change their color */
 nav a:hover {
   color: #be6969;
+}
+
+.navbutton {
+  float: left
 }
 
 /* Position and style the close button (top right corner) */
