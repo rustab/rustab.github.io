@@ -9,8 +9,8 @@ html {
   
   p,
   li {
-    font-size: 16px;
-    line-height: 2;
+    font-size: 12px;
+    line-height: 1.5em;
     letter-spacing: 1px;
     
     /*background-image: url("../images/Charlie_Jones.jpg");
@@ -125,6 +125,6 @@ section.booksToRead{
   background-color: rgb(209, 184, 152);
   text-align: left;
 }
-section p {
+p.sectionParagraph {
   border: 1px #464343;
 }
