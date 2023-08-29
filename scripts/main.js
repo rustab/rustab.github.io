@@ -10,7 +10,8 @@ function closeNav() {
 }
 
 function openHobbySubNav() {
-  document.getElementById("myHobbySubNav").style.width = "500px";  
+  document.getElementById("myHobbySubNav").style.width = "250px"; 
+  document.getElementById("myHobbySubNav").style.paddingLeft = "250px"
 }
 
 function closeHobbySubNav() {
