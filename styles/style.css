@@ -17,7 +17,6 @@ html {
     */
   }
 
-
   body {
     height:100%;
     display: table-cell;
@@ -122,6 +121,10 @@ section.needToLearn{
   text-align: left;
 }
 section.booksToRead{
+  background-color: rgb(209, 184, 152);
+  text-align: left;
+}
+section.toolsToLearn{
   background-color: rgb(209, 184, 152);
   text-align: left;
 }
