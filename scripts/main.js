@@ -8,3 +8,11 @@ function openNav() {
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
 }
+
+function openHobbySubNav() {
+  document.getElementById("myHobbySubNav").style.width = "250px";  
+}
+
+function closeHobbySubNav() {
+  document.getElementById("myHobbySubNav").style.width = "0";
+}
