@@ -2,7 +2,7 @@
 
 /* Handling navigation pane */
 function openNav() {
-  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("mySidenav").style.width = "350px";
 }
 
 function closeNav() {
