@@ -6,13 +6,42 @@ html {
     display: table;
     margin: auto;
 }
-  
+  a,
   p,
   li {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.5em;
     letter-spacing: 1px;
-    
+  }
+
+  a {
+    text-decoration: none;
+    color: green;
+  }
+  table {
+    width:100%;
+    table-layout: fixed;
+  }
+  table,
+  td {
+    border-collapse: collapse;
+    border: 1px solid #333;
+    padding-right: 1ch;
+    padding-bottom: 0.8ch;
+    padding-top: 0.8ch;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  caption {
+    text-decoration: overline;
+    padding-bottom: 1ch;
+    font-size: 16px;
+  }
+  thead,
+  tfoot {
+    background-color: #333;
+    color: #fff;
   }
 
   body {
