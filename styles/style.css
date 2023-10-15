@@ -2,8 +2,7 @@ html
 {
     font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
     font-family: "Roboto Mono", monospace; /* this should be the rest of the output you got from Google Fonts */
-    
-    /*font-family: 'Ubuntu Mono', monospace;*/
+    font-family: 'Ubuntu Mono', monospace;
     background-color: seashell;
     height:100%;
     display: table;
@@ -38,10 +37,23 @@ body
     text-decoration: none;
     color: green;
   }
+
   table {
-    width:100%;
-    table-layout: fixed;
+    width: 100%;
   }
+  
+  td.item {
+    width: 200px;
+  }
+  
+  td.description {
+    width: 250px;
+  }
+  
+  td.haid {
+    width: 100px;
+  }
+
   table,
   td {
     border-collapse: collapse;
