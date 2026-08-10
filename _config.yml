@@ -1,3 +1,5 @@
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
+minima: 
+  skin: dark
 title: Rustab blog
 description: A list of articles describing personal opinions
