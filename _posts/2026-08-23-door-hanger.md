@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Making a hanger"
 date: 2026-08-23
+categories: diy
 ---
 
 # Making a wooden door hanger
