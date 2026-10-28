@@ -2,4 +2,4 @@ remote_theme: "jekyll/minima@1e8a445"
 minima: 
   skin: dark
 title: Rustab's blog
-description: A list of technical and non-technical articles
+description: A list of technical, non-technical articles, and such.
