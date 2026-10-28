@@ -1,4 +1,6 @@
-# What you find here
+---
+title: Home
+---
 
 Various posts about every other thing.
 
