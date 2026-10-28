@@ -20,21 +20,21 @@ Here are my unreadable doodles. I know documentation is an engineering vice so I
 
 ### Doodles
 
-![sketch4](/images/23-08-26/IMG_6699.jpg)
+![sketch4](/images/2026-08-23/IMG_6699.jpg)
 
-![sketch1](/images/23-08-26/IMG_6700.jpg)
+![sketch1](/images/2026-08-23/IMG_6700.jpg)
 
-![sketch2](/images/23-08-26/IMG_6701.jpg)
+![sketch2](/images/2026-08-23/IMG_6701.jpg)
 
-![sketch3](/images/23-08-26/IMG_6702.jpg)
+![sketch3](/images/2026-08-23/IMG_6702.jpg)
 
 ### Result
 
-![hanger](/images/23-08-26/IMG_6696.jpg)
+![hanger](/images/2026-08-23/IMG_6696.jpg)
 
-![overview](/images/23-08-26/IMG_6697.jpg)
+![overview](/images/2026-08-23/IMG_6697.jpg)
 
-![hanging](/images/23-08-26/IMG_6698.jpg)
+![hanging](/images/2026-08-23/IMG_6698.jpg)
 
 ## Discussion
 
