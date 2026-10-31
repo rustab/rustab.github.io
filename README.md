@@ -25,9 +25,14 @@ If you want to run it locally:
    matter of your post. Your `default.html` will take precedence over the theme one. 
 
 # References
+
+## Testing locally
 [Test Github pages site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
 ## References for changing default layout
 - [Github pages, override themes default](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-html-layout)
 - [Jekyll customize themes using layouts](https://jekyllrb.com/docs/themes/)
 - [Jekyll layout](https://jekyllrb.com/docs/layouts/)
+
+## RSS Feed
+- [Jekyll Feed](https://github.com/jekyll/jekyll-feed)
