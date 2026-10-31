@@ -3,3 +3,5 @@ minima:
   skin: dark
 title: Rustab's blog
 description: A list of technical, non-technical articles, and such.
+plugins:
+  - jekyll-feed
