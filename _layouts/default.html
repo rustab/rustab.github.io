@@ -1,0 +1,30 @@
+<!-- This is a customized version of minimas own default.html. -->
+<!-- I did the customization to so that I can have Latex rendered using Mathjax -->
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+    <script> 
+        window.MathJax = {
+            tex: {
+            tags: 'ams' // This gives equations numbers
+           }
+        };
+    </script>
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
