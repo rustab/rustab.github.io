@@ -16,7 +16,7 @@ So, I decided to use a Mora-knife to create one of those hangers that you can st
 
 ## Sketches
 
-Here are my unreadable doodles. I know documentation is an engineering vice so I wanted to at least push up all of my stuff before I forget.
+Here are my unreadable doodles. I know documentation is an engineering virtue so I wanted to at least push up all of my stuff before I forget.
 
 ### Doodles
 
