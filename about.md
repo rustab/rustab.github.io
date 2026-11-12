@@ -2,7 +2,4 @@
 title: About
 ---
 
-# Qiitaよ
-
-- https://qiita.com/rustab
-
+[Qiita](https://qiita.com/rustab)
